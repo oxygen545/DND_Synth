@@ -3,7 +3,6 @@
 #include <Arduino.h>
 #include "SynthVoice.h"
 
-
 //           DEFINES
 // #define FIRST_INIT 1
 // #define DEBUG_PRINT 1
